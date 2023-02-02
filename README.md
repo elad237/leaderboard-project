@@ -47,11 +47,9 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+In order to run this project you need:
 
-- You need a GitHub account.
-- You need to have a Git client installed on your computer.
-- You need to have a copy of the HTML CSS website codebase on your computer.
-- A code Editor of your choice.
+You should have node install on your local machine
 
 ### Setup
 
@@ -65,6 +63,7 @@ git clone https://github.com/elad237/leaderboard-project.git
   ```
   npm init -y
   npm install
+npm i
   ```
 - Open the index.html file in a browser.
 
@@ -75,10 +74,25 @@ https://github.com/elad237/leaderboard-project.git
 
 ### Run tests
 
-If you want to work with Chrome Developer Tools, simply run the HTML document in Google Chrome and right-click the HTML element you want to inspect. Click on "Inspect" and you will have the tools to run, analyze, and even debug the code.
+To run tests, run the following command:
+
+Example command:
+
+To run the webhint linter
+
+  npx hint .
+To run the stylehint linter
+
+  npx stylehint "**/*.{css,scss}"
+To run the ESLint linter
+
+  npx eslint .
 
 ### Deployment
+You can deploy this project using:
 
+  npm run build
+  npm run start
 ## Author
 
 👤 **TUMBU BARTHOLOMEW ELAD**
