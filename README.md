@@ -29,7 +29,7 @@
 ## Built With
 
 - Major languages HTML, CSS and Javascript
-- webpack and ES6 features
+- web pack and ES6 features
 - Technologies used Javascript web pack
 
 ## Important Links
@@ -44,7 +44,7 @@
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**Modify this file to match your **project, and remove sections that** don't apply. For example: delete the testing section if the correct project doesn't require testing.**
 
 To get a local copy up and running follow these simple example steps.
 
@@ -63,7 +63,7 @@ git clone https://github.com/elad237/leaderboard-project.git
 
 ### Install
 
-- Install all the dependencys required for the website. BY using the command below.
+- Install all the dependencies required for the website. By using the command below.
   ```
   npm init -y
   npm install
@@ -72,7 +72,7 @@ git clone https://github.com/elad237/leaderboard-project.git
 
 ### Usage
 
-For making any changes to the project the clone the project-
+For making any changes to the project clone the project-
 
 ### Run tests
 
