@@ -71,6 +71,7 @@ git clone https://github.com/elad237/leaderboard-project.git
 ### Usage
 
 For making any changes to the project clone the project-
+https://github.com/elad237/leaderboard-project.git
 
 ### Run tests
 
