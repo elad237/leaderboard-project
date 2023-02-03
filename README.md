@@ -85,14 +85,15 @@ To run the stylehint linter
 
   npx stylehint "**/*.{css,scss}"
 To run the ESLint linter
-
   npx eslint .
 
 ### Deployment
 You can deploy this project using:
 
+npm install
   npm run build
   npm run start
+
 ## Author
 
 👤 **TUMBU BARTHOLOMEW ELAD**
