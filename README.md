@@ -100,6 +100,10 @@ GitHub: [@githubhandle](https://github.com/elad237)
 - Twitter: [@twitterhandle](https://twitter.com/Elad59380989)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tumbu-elad-896ab2183/)
 
+#future-features
+-[] Save the player's score
+-[] Refresh the leaderboard
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
