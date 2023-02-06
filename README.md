@@ -69,6 +69,7 @@ npm i
 
 ### Usage
 
+Run npm start
 For making any changes to the project clone the project-
 https://github.com/elad237/leaderboard-project.git
 
